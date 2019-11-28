@@ -12,5 +12,5 @@ My research experience includes diseases modelling with vaccination dynamics, wi
 
 I am living with my wife in Waterloo.
 
-I am best reached at vivekthampiis@gmail.com
+I am best reached at vivekthampiis@gmail.com <br>
 My LinkedIn is <a href="https://www.linkedin.com/in/vthampi/">Vivek Thampi</a>
