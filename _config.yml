@@ -4,13 +4,13 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Vivek Thampi Blog"
+title: "Vivek Thampi, PhD"
 description: > # this means to ignore newlines until "email:"
    PhD Student in Applied Mathematics, University of Waterloo
 
 email: vivekthampiis@gmail.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/vt_logo.jpg"
 float_logo: true # true, false (default)
 
 # blog cover
