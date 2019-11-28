@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+I am an applied mathematician currently finishing a doctorate degree at University of Waterloo, Canada. My supervisor is <a href = "http://www.math.uwaterloo.ca/~cbauch/"> Chris Bauch </a> and co-supervisor is <a href = "http://www.uoguelph.ca/~manand/Madhur_Anand/Welcome.html"> Madhur Anand </a>.
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My research experience includes diseases modelling with vaccination dynamics, within-host disease modelling, and observing the interaction between human and ecosystem dynamics via mathematical modelling using socio-ecological models.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I am living with my wife in Waterloo.
+
+I am best reached at vivekthampiis@gmail.com
+My LinkedIn is <a href="https://www.linkedin.com/in/vthampi/">Vivek Thampi</a>
